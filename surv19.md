@@ -18,7 +18,8 @@
   - počet residencí
   - počet /home
   - max. rozloha residence
-- upgrady z plnění /ukoly
+- battlepass
+- upgrady z plnění /ukoly (formou battlepassu, ve kterém získává hráč skillpointy)
   - haste na těžení
   - nakrmení
   - movement speed
@@ -28,3 +29,25 @@
 - daně na autosell, sell all...
   - peníze by šly do server rozpočtu, který by používal peníze z daní třeba na rybářské soutěže, odměny v eventech, apod.
     - nechat ovšem dostatečné množství věcí, z kterých hráčské útraty nejdou zpět do oběhu, aby se nezníčila ekonomika
+- end nesmí být ve stylu jako na surv16
+    - je otřesný a je k ničemu, stejně tak nether
+- custom lore tagy na itemy (item editor)
+- gangy či jiná forma sdružení hráčů
+    - sdružení by mělo jakýsi shop jako jobs shop s custom předměty https://www.spigotmc.org/resources/gangs-1-8-1-19.2604/
+    - mohl by se spawnovat na různých místech dealer, který nabízí určitá vylepšení, boostery...
+    - braní drog pro vyboostění (koncept gangu může být nahrazen nečím jiným, co se neorientuje na fetování, ale základní princip je prostě sdružení hráčů, ze kterého jdou bonusy a sdružení mohou spolu bojovat)
+    - gang questy (vytěžit rudy, dřevo, písek, zabít moby, zabít člena cizáckého gangu)
+    - gang resky, ze kterých by mohly "nepřátelské" gangy krást a bojovat o území
+- získávání shardů, ze kterých se craftí trochu lepší klíče na lepší bedny
+- možnost vylepšení spawnerů (rychlost spawnování)
+- bossové, kteří dropují hlavy, předměty, úlomky
+- filter na blocky formou hopperu
+- odměny za pozvání hráčů z jiné IP, kteří odehrají více než X hodin
+- piňáta party
+    - hráči zmlátí piňátu na spawnu a získají odměny
+    - obdobně by mohl být na spawnu blok, který musí být vytěžen Xkrát a člověk s nejvíce vytěžením bloku má odměnu jistou
+- přidání šeků (uid systém máte hotov, takže už by neměl být problém)
+- stírací losy, automaty, gamblení
+- vylepšit rybaření
+    - custom enchanty na prut (šance na větší rybu, dražší rybu)
+    - vytahování vzácných enchantovaných předmětů, úlomků
